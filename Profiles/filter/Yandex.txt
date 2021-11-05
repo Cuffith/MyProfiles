@@ -1,0 +1,7 @@
+
+# 需要force-policy
+
+
+- DOMAIN-KEYWORD,yandex
+- DOMAIN,yandex.com
+- DOMAIN-SUFFIX,yandex.com
